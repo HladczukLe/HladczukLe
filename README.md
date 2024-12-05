@@ -2,20 +2,26 @@
  
 Software Engineering student at [University of Brasilia](http://www.unb.br) 👩‍💻
  
-## About me 
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/HladczukLe)](https://github.com/HladczukLe)
+## About me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-hladczuk/)](https://www.linkedin.com/in/leticia-hladczuk/)
 
 ## Languages and Tools:
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HladczukLe&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F&bg_color=1C1C1C" alt="Max Muller github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HladczukLe&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=1C1C1C" />
-
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+ 
+  <div style="display: inline_block" align="center"><br>
+   <img align="center" alt="python" height="45" width="45" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+   <img align="center" alt="spark" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg">
+   <img align="center" alt="mongodb" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+   <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+   <img align="center" alt="postgresql" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PostgreSQL-Dark.svg">
+   <img align="center" alt="vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+   <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+   <img align="center" alt="java" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+   <img align="center" alt="javascript" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+   <img align="center" alt="html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="c" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+ </div>
 </div>
