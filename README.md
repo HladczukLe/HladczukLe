@@ -3,7 +3,7 @@
 Software Engineering student at [University of Brasilia](http://www.unb.br) 👩‍💻
  
 ## About me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-hladczuk/)](https://www.linkedin.com/in/leticia-hladczuk/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hladczukle/)](https://www.linkedin.com/in/hladczukle/)
 
 ## Languages and Tools:
 <div align="center">  
